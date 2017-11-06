@@ -3,4 +3,4 @@
   hosts: 150.150.150.107
   sudo: True
   roles:
-   - role: ansible-galaxy-httpd
+   - role: packages
